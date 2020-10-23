@@ -1,2 +1,2 @@
-# Setup_and_Configuration
+# Setup and Configuration
 Configuration and startup scripts for Charlie
